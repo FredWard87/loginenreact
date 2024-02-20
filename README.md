@@ -5,11 +5,11 @@
 ## 👾 Clonar el Repositorio
 En la terminal git bash usar el siguiente comando
 
-```git clone https://github.com/111linblink/AplicacionesWeb.git```
+```git clone https://github.com/FredWard87/loginenreact.git```
 
 Este comando debe ponerse abriendo el git bash en la carpeta que desees 
 
-## 🧩 Dependencias
+##  Dependencias
 <h2 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h2>
 
 **Descargar los node modules.**
@@ -41,8 +41,8 @@ Para desplejar el proyecto en tu navegador web favorito deberas colocar el sigui
 <br>
 <br>
 
-# 🗿 Grupo
+#  Grupo
 GDS0551
-# 😎 Alumno
-Fernando Martínez Rodríguez
+#  Alumno
+Fredy Alonso Esparza Campuzano
 
