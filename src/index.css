@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loading-container {
+    text-align: center;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  /* Puedes agregar más estilos según tus preferencias */
+  
